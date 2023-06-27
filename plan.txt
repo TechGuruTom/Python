@@ -1,0 +1,33 @@
+1.Learn basics
+	1. data types
+		1. list, tuple, set, dictionary, string
+		2. numbers
+		3. frequently used methodology to check equality, exisistance, etc in data types
+	2. common programming concepts 
+		1. operators
+		2. control structure
+		3. functions
+		4. module
+		5. file i/o
+		6. exception handling
+		7. oops
+	3. learn design patterns
+
+2.Get your hands dirty
+	1. work on projects
+	2. work on open-source projects
+	3. solve coding challenges
+
+3.Expand your knowledge
+	1. learn about additional libraries
+	2. get familier yourself with most used packages like numPy, pandas,etc
+
+4.Expand the network
+	1.attend meetups,  conference, online communities
+
+5.Stay updated
+	1. follow up blogs, community, groups
+
+6.Continuously improve
+	1. regularly review and improve your coding skills
+	2. ensure your code is efficient, readable, maintainable
